@@ -1,0 +1,23 @@
+.flex{
+    display: flex;
+}
+
+.items-center{
+    align-items: center;
+}
+.btn{
+    padding:7px 12px;
+    border: 2px solid white;
+    border-radius: 6px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(227 74 56);;
+}
+.justify-between{
+    justify-content: space-between;
+    border-bottom: 1ch;
+   
+    border-color: white;
+    border-style:solid;
+    
+}
